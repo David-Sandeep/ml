@@ -1,2 +1,2 @@
 # ml
-this Repo consists Notebooks for diiferent projects in Machine Learning
+this Repo consists jupyter Notebooks for different projects in Machine Learning
